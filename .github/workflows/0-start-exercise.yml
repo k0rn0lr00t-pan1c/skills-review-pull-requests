@@ -20,8 +20,8 @@ jobs:
     name: Start Exercise
     uses: skills/exercise-toolkit/.github/workflows/start-exercise.yml@v0.9.1
     with:
-      exercise-title: "Review Pull Requests"
-      intro-message: "Let's learn to collaborate with others using pull requests."
+      exercise-title: "Create a Repository"
+      intro-message: "Let's learn how to create repositories on GitHub."
 
   modify_repo_content:
     name: Modify repo content

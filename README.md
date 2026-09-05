@@ -1,17 +1,17 @@
-# Review pull requests
+# Create a Repository
 
-_Collaborate with others to refine your work and get suggestions before merging._
+_Create your first GitHub repository and get it ready for collaboration._
 
 ## Welcome
 
-All great projects start with collaboration, and pull requests are the foundation of teamwork on GitHub. They give you the ability to asynchronously work together and refine work by commenting, requesting changes, and approving.
+All great projects start with a repository, and GitHub makes it easy to create one for your work. Repositories give you a place to organize files, track changes, and collaborate with others over time.
 
 - **Who is this for**: Technical Developers, Non-Technical collaborators, students, managers.
 - **What you'll learn**:
-  - How to request a review and assign it.
-  - How to provide a review for someone else's work.
-  - How to suggest changes and approve changes.
-- **What you'll build**: We'll review a pull request for a simple game.
+  - How to create a new repository.
+  - How to add a README to describe your project.
+  - How to start organizing files for collaboration.
+- **What you'll build**: We'll create a repository for a simple game.
 - **Prerequisites**: We assume you are familiar with content from the [Introduction to GitHub](https://github.com/skills/introduction-to-github) exercise.
   - Commits
   - Creating branches and pull requests
@@ -30,7 +30,7 @@ In this exercise, you will:
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
 
-[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=review-pull-requests&owner=%40me&name=skills-review-pull-requests&description=Exercise%3A+Review+pull+requests&visibility=public)
+[![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=review-pull-requests&owner=%40me&name=skills-review-pull-requests&description=Exercise%3A+Create+a+Repository&visibility=public)
 
 <details>
 <summary>Having trouble? 🤷</summary><br/>
